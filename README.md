@@ -31,7 +31,7 @@ Boilerplate code for a base Electron app serving a React frontend with Vite. Typ
 
 ---
 
-## 🛠️ Getting Started  
+## Getting Started  
 
 ### Prerequisites  
 Ensure you have the following installed:  
@@ -126,7 +126,7 @@ Update this file to reflect your project's name, description, and target platfor
 
 ---
 
-## 💡 Usage Tips
+## Usage Tips
 * Use ```ipcMain``` / ```ipcRenderer``` for safe communication between main and renderer processes.
 * Keep environment variables separate using ```.env``` and ```import.meta.env``` for the renderer.
 * Test builds for each platform you plan to distribute to (Windows, macOS, Linux).
@@ -135,7 +135,7 @@ Update this file to reflect your project's name, description, and target platfor
 
   ---
 
-## 🤝 Contributing
+## Contributing
 Contributions are welcome!
 1. Fork the repo
 2. Create a feature branch
